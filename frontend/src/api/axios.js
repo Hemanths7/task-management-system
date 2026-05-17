@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: process.env.REACT_APP_API_URL || 'http://localhost:5000',
+  baseURL: 'https://task-management-backend-k9qw.onrender.com',
 });
 
 // Attach JWT token to every request
