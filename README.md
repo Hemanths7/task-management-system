@@ -2,6 +2,13 @@
 
 A full-stack task management application built using React.js and Flask with JWT authentication.
 
+## Live Demo
+
+Frontend: https://task-management-system-ochre-eight.vercel.app/
+
+Backend API: https://task-management-backend-k9qw.onrender.com
+
+
 ## Features
 
 - User Registration and Login
