@@ -61,3 +61,20 @@ DELETE /tasks/:id
 - Pagination
 - User Profile Management
 - Task Deadlines
+
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Create Account
+![Register](screenshots/create-account.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Task Creation
+![Task Creation](screenshots/task-creation.png)
+
+### Mobile Responsive View
+![Mobile View](screenshots/mobile-view.png)
